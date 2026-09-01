@@ -1,14 +1,7 @@
 - 👋 Hi, I’m @GitDanyaUser
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C/C++
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
 
-<!---
-GitDanyaUser/GitDanyaUser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScsIakIW9E6OBAl0BoEVSynpQ2ST3lXMcMn-4pqUgM8iIgsRA/viewform?usp=dialog" target="_blank">
+  <img src="./Google_Forms_2020_Logo.svg" alt="Contact Form" width="200" />
+</a>
