@@ -11,7 +11,7 @@ I'm interested in programming, exploring new technologies, and building projects
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🚀 My Projects
+### ⭐ Featured
 
 <a href="https://gitdanyauser.github.io/Windows10SimulatorDownload/">
   <img src="./Win10_Logo.svg" alt="Windows 10 Logo" width="50" align="center" />
