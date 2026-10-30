@@ -28,7 +28,3 @@ A simulator inspired by the Windows 10 experience.
 </a>
 
 **[Contact Form](https://docs.google.com/forms/d/e/1FAIpQLScsIakIW9E6OBAl0BoEVSynpQ2ST3lXMcMn-4pqUgM8iIgsRA/viewform?usp=dialog)**
-
----
-
-⭐ Thanks for visiting my profile!
